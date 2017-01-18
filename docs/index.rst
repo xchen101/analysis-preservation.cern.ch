@@ -9,19 +9,6 @@ Welcome to the Documentation for CERN Analysis Preservation
 These will be the CAP docs some time in the future.
 
 
-
-    .. toctree::
-        :glob:
-        :maxdepth: 2
-
-        background
-        getting-started
-        support
-
-Table of Content
-----------------
-
-
     What it is
     ==========
 
@@ -104,6 +91,14 @@ Table of Content
     License and term of use
     ===================
 
+
+        .. toctree::
+            :glob:
+            :maxdepth: 2
+
+            background
+            getting-started
+            support
 
     .. toctree::
         :hidden:
