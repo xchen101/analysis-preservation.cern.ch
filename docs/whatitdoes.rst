@@ -16,6 +16,7 @@ Depending on the preference and work environment of the researcher, analysis inf
 -  Submission forms
 
 Submission forms are unique to each collaboration. Taking into consideration the diversity of approach, workflow and language used for physics analyses within collaborations, the default analysis components and fields for description on the analysis forms are appropriate to collaboration requirements.
+Go here for more information on the terminologies used on the forms.
 
 As the active profile page for a physics analysis,
 
