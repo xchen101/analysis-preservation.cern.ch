@@ -2,7 +2,7 @@ What it is
 ==========
 
 -  Scope and goal
--  Movitation
+-  Motivation
 -  Team
 -  Contributors
 -  Partners
@@ -11,7 +11,7 @@ What it is
 Walk-throughs
 =============
 
-1. Submit an analysis (webform)
+1. Submit an analysis (web-form)
 2. Search for analyses
 3. Reuse an analysis
 4. Submit an analysis (API)
@@ -41,10 +41,10 @@ What it does
 
 -  Analysis environment preservation
 -  Analysis take-over
+-  RECAST
 
 5. Re-interpret
-
--  RECAST
+-  ?
 
 
 FAQ
@@ -54,7 +54,7 @@ FAQ
 Community support
 =================
 
--  Feedback form
+-  Feedback form?
 -  Contact information
 
 Glossary/ terminologies
@@ -67,7 +67,7 @@ Glossary/ terminologies
 References
 ==========
 
--  Metadata schemata
+-  Metadata schema
 -  Publications
 -  Presentations
 -  Development status/ timeline
