@@ -68,3 +68,8 @@ Images included in the text should ideally be located in the ``_static`` folder 
 ::
 
   .. image:: _static/image.png
+
+Further Information
+-------------------
+
+Sphinx enhances reStructuredText in a lot of ways. It is worthwhile to check out their `CheatSheet <http://thomas-cokelaer.info/tutorials/sphinx/rest_syntax.html>`_ for more beautiful docs.
